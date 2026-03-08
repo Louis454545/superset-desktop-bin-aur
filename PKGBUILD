@@ -1,4 +1,4 @@
-# Maintainer: Louis <louis@example.com>
+# Maintainer: louis4545 <la.programmations@gmail.com>
 pkgname=superset-desktop-bin
 pkgver=1.1.2
 pkgrel=1
