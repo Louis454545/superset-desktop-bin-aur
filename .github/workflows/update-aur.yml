@@ -36,7 +36,7 @@ jobs:
 
       - name: Publish to AUR
         if: steps.check.outputs.update == 'true'
-        uses: KSXGitHub/github-actions-deploy-aur@v4
+        uses: KSXGitHub/github-actions-deploy-aur@v4.1.1
         with:
           pkgname: superset-desktop-bin
           pkgbuild: ./PKGBUILD
